@@ -1,2 +1,0 @@
-(function(){(function(){function c(){if(!/MSIE/.test(window.navigator.userAgent)&&window.document.location.href.match(/^[^\?#]+\.pdf((#|\?).*)?$/i)){var a;a:{a=window.document.getElementsByTagName("embed");for(var b=a.length-1;0<=b;--b)if("100%"==a[b].width&&"100%"==a[b].height){a=!0;break a}a=!1}a&&document.body.setAttribute("ABHTML_PDF_MARK_ATTRIBUTE__","true")}}window.addEventListener&&window.addEventListener("DOMContentLoaded",c,!1);(function b(){/complete/.test(window.document.readyState)?c():
-setTimeout(b,50)})()})()})();
